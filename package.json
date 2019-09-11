@@ -8,6 +8,7 @@
     "devStart": "nodemon server.js"
   },
   "dependencies": {
+    "body-parser": "^1.19.0",
     "ejs": "^2.7.1",
     "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.0",
